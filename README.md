@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react" />
     <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js" />
     <img src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python" />
+    <img src="https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm" />
     <img src="https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
