@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-
+<div>
+  <h2>Github Stats</h2>
+  <div style="display: grid; grid-template-columns: 1fr 1fr;">
+   <img src="https://github-readme-stats.vercel.app/api?username=CDidier80&show_icons=true&theme=onedark" /><img src="https://github-     readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=onedark" />
+  </div>
+</div>
 
 <div>
   <h2>Technologies</h2>
