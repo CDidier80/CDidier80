@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python" />
     <img src="https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm" />
     <img src="https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django" />
+    <img src="https://img.shields.io/badge/-PyQt5-lightgreen?style=flat-square&logo=pyqt" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />
