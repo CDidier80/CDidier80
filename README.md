@@ -23,8 +23,8 @@
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=materialui" />
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=insomnia" />
+    <img src="https://img.shields.io/badge/-MaterialUI-563D7C?style=flat-square&logo=materialui" />
+    <img src="https://img.shields.io/badge/-Insomnia-563D7C?style=flat-square&logo=insomnia" />
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />
