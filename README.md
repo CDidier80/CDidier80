@@ -24,7 +24,7 @@
     <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=react" />
   </div>
   
-  <div width="100%" height="40px"> hello
+  <div width="100%" height="40"> hello
   </div>
   
   <div width="80%">
