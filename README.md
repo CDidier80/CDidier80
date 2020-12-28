@@ -2,7 +2,7 @@
 
 <div markdown="1">
   <h2>Recent Apps and Websites</h2>
-    <a href="http://www.star-ships.info" target="_blank">
+    <a href="http://www.star-ships.info" target="blank">
       <img alt="Qries" src="https://i.ibb.co/gzHHxTv/6069-E09-E-72-EB-40-CF-902-B-7-DAC1-DFBDABC-1-201-a.jpg" width="49%">
     </a>
   
