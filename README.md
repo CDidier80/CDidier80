@@ -20,13 +20,11 @@
   
   <h2>Technologies</h2>
   
-  <div align="center">
-    <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=react" />
+  <div align="left">
+    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=react" />
   </div>
-</div>
-
-<br />
-<div width="80%">
+  
+ <div width="49%" align="right">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -49,6 +47,10 @@
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />
   <img src="https://img.shields.io/badge/-Zoom-black?style=flat-square&logo=zoom" />
 </div>
+</div>
+
+<br />
+
 
 <!--
 **CDidier80/CDidier80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
