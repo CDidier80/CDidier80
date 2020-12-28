@@ -1,6 +1,11 @@
 ### Hello, and welcome!
 
 <div>
+  <h2>Recent Apps and Websites</h2>
+    <a href="www.star-ships.info">
+      <img alt="Qries" src="https://i.ibb.co/gzHHxTv/6069-E09-E-72-EB-40-CF-902-B-7-DAC1-DFBDABC-1-201-a.jpg" width="45%">
+  </a>
+  
   <h2>Github Stats</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr;">
    <img src="https://github-readme-stats.vercel.app/api?username=CDidier80&show_icons=true&theme=react" />
@@ -33,13 +38,12 @@
     <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />
     <img src="https://img.shields.io/badge/-Zoom-black?style=flat-square&logo=zoom" />
   </div>
+  
+
 </div>
 
 
-<a href="www.star-ships.info">
-   <img alt="Qries" src="https://i.ibb.co/gzHHxTv/6069-E09-E-72-EB-40-CF-902-B-7-DAC1-DFBDABC-1-201-a.jpg"
-   width="150" height="150">
-</a>
+
 <!--
 **CDidier80/CDidier80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
