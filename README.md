@@ -21,7 +21,7 @@
   <h2>Technologies</h2>
   
   <div align="left">
-    <img max-width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=react" />
+    <img max-width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=react" />
   </div>
   
  <div max-width="49%" align="right">
