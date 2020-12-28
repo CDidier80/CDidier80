@@ -24,7 +24,8 @@
     <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=react" />
   </div>
   
-  <div width="100%" height="40"></div>
+<div height="40">
+</div>
   
   <div width="80%">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white" />
