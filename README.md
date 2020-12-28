@@ -12,14 +12,13 @@
   
   
  <h2>Github Stats</h2>
- <div style="display: grid; grid-template-columns: 1fr 1fr;">
-   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CDidier80&show_icons=true&theme=react" />
-   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=react" />
-  </div>
+   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=CDidier80&show_icons=true&theme=react" />
+
 </div>
 
 <div>
   <h2>Technologies</h2>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=react" />
   <div>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
