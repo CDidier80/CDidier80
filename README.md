@@ -2,12 +2,12 @@
 
 <div markdown="1">
   <h2>Recent Apps and Websites</h2>
-    <a markdown="1" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px;" href="http://www.star-ships.info" target="_blank">
-      <img markdown="1" style="border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px;" alt="Qries" src="https://i.ibb.co/gzHHxTv/6069-E09-E-72-EB-40-CF-          902-B-7-DAC1-DFBDABC-1-201-a.jpg" display="block" border-radius=10px" width="49%">
+    <a  href="http://www.star-ships.info" target="_blank">
+      <img alt="Qries" src="https://i.ibb.co/gzHHxTv/6069-E09-E-72-EB-40-CF-902-B-7-DAC1-DFBDABC-1-201-a.jpg" width="49%" align="left">
     </a>
   
-  <a style="display:block;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;" href="http://www.pycore.net" target="_blank">
-    <img style="border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;" alt="Qries" src="https://i.ibb.co/6DNdPhQ/685-C75-C1-974-A-4-EB6-BFF8-02-         B9-E174503-A-1-201-a.jpg" width="49%">
+  <a href="http://www.pycore.net" target="_blank">
+    <img alt="Qries" src="https://i.ibb.co/6DNdPhQ/685-C75-C1-974-A-4-EB6-BFF8-02-B9-E174503-A-1-201-a.jpg" width="49%" align="right">
   </a>
   
   
