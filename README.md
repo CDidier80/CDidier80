@@ -36,6 +36,10 @@
 </div>
 
 
+<a href="www.star-ships.info">
+   <img alt="Qries" src="https://i.ibb.co/gzHHxTv/6069-E09-E-72-EB-40-CF-902-B-7-DAC1-DFBDABC-1-201-a.jpg"
+   width="150" height="150">
+</a>
 <!--
 **CDidier80/CDidier80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
