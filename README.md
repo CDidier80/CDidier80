@@ -10,7 +10,7 @@
   </a>
   
    <a href="https://www.youtube.com/watch?v=7Kl-IWerKIw&t=0s" target="_blank">
-    <img alt="Qries" src="https://i.ibb.co/xmL9dqy/044-ACD09-956-B-4754-8-F7-F-4-EE41-C4-EFE5-F-1-201-a.jpg" width="95%">
+    <img alt="Qries" src="https://i.ibb.co/xmL9dqy/044-ACD09-956-B-4754-8-F7-F-4-EE41-C4-EFE5-F-1-201-a.jpg" height="200px">
   </a>
   
   
