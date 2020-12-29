@@ -1,6 +1,4 @@
 ### Hello, and welcome!
-
-<div markdown="1">
 <div height="320px" style="height:320px">
   <h2>Recent Apps and Websites</h2>
     <a  href="http://www.star-ships.info" target="_blank">
@@ -10,11 +8,12 @@
   <a href="http://www.pycore.net" target="_blank">
     <img alt="Qries" src="https://i.ibb.co/6DNdPhQ/685-C75-C1-974-A-4-EB6-BFF8-02-B9-E174503-A-1-201-a.jpg" width="47%" align="right">
   </a>
- </div>
+</div>
 
+<div class="stats">
  <h2>Github Stats</h2>
-   <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=CDidier80&show_icons=true&theme=react" />
-
+ <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=CDidier80&show_icons=true&theme=react" />
+</div>
 <div>
   <h2>Technologies</h2>
     <div align="left">
