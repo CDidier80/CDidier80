@@ -1,4 +1,4 @@
-### Hello, and welcome!
+
 <div height="320px" style="height:320px">
   <h2>Recent Apps and Websites</h2>
     <a  href="http://www.star-ships.info" target="_blank">
