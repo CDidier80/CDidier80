@@ -11,7 +11,8 @@
     <img alt="Qries" src="https://i.ibb.co/6DNdPhQ/685-C75-C1-974-A-4-EB6-BFF8-02-B9-E174503-A-1-201-a.jpg" width="47%" align="right">
   </a>
  </div>
-  
+  <br />
+  <br />
  <h2>Github Stats</h2>
    <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=CDidier80&show_icons=true&theme=react" />
 </div>
@@ -46,7 +47,6 @@
   </div>
 </div>
 
-<br />
 
 
 <!--
