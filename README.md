@@ -8,6 +8,12 @@
   <a href="http://www.pycore.net" target="_blank">
     <img alt="Qries" src="https://i.ibb.co/6DNdPhQ/685-C75-C1-974-A-4-EB6-BFF8-02-B9-E174503-A-1-201-a.jpg" width="49%">
   </a>
+  
+   <a href="https://www.youtube.com/watch?v=7Kl-IWerKIw&t=0s" target="_blank">
+    <img alt="Qries" src="https://i.ibb.co/xmL9dqy/044-ACD09-956-B-4754-8-F7-F-4-EE41-C4-EFE5-F-1-201-a.jpg" width="95%">
+  </a>
+  
+  
 </div>
 
 <div class="stats">
