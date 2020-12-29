@@ -1,5 +1,5 @@
 ### Hello, and welcome!
-<div height="320px" style="height:320px">
+<p height="320px" style="height:320px">
   <h2>Recent Apps and Websites</h2>
     <a  href="http://www.star-ships.info" target="_blank">
       <img alt="Qries" src="https://i.ibb.co/gzHHxTv/6069-E09-E-72-EB-40-CF-902-B-7-DAC1-DFBDABC-1-201-a.jpg" width="47%" align="left" >
@@ -8,7 +8,7 @@
   <a href="http://www.pycore.net" target="_blank">
     <img alt="Qries" src="https://i.ibb.co/6DNdPhQ/685-C75-C1-974-A-4-EB6-BFF8-02-B9-E174503-A-1-201-a.jpg" width="47%" align="right">
   </a>
-</div>
+</p>
 
 <div class="stats">
  <h2>Github Stats</h2>
