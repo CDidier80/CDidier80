@@ -21,14 +21,14 @@
   <h2>Technologies</h2>
   
   <div align="left">
-    <img width="70%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=react" />
+    <img width="60%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDidier80&layout=compact&theme=react" />
   </div>
   
- <div width="29%" align="right">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react" />
+ <div width="39%" align="right">
+  <img width="12%" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white" />
+  <img width="12%" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img width="12%" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img width="12%" src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-ExpressJS-yellow?style=flat-square&logo=express" />
   <img src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python" />
