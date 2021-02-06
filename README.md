@@ -1,7 +1,7 @@
 
 <div height="320px" style="height:320px">
   
-  <h2>Recent Apps and Websites</h2>
+  <h2>Current Project</h2>
   <a  href="http://www.money-buddy.net" target="_blank">
     <img alt="Qries" src="https://i.ibb.co/4FRbkQg/F0-BF74-AB-325-F-476-A-8-A0-E-60-E1523-A1-E17.jpg" width="98%" >
   </a>
