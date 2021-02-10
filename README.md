@@ -12,13 +12,9 @@
     </a>
     
   <a href="http://www.pycore.net" target="_blank">
-    <img alt="Qries" src="/PyCore.gif" width="49%">
+    <img alt="Qries" src="/PyCore.gif" width="48%">
   </a>
-  
-  <!-- 
-  <a href="http://www.pycore.net" target="_blank">
-    <img alt="Qries" src="https://i.ibb.co/6DNdPhQ/685-C75-C1-974-A-4-EB6-BFF8-02-B9-E174503-A-1-201-a.jpg" width="49%">
-  </a>
+
  
    <a href="https://www.youtube.com/watch?v=7Kl-IWerKIw&t=0s" target="_blank">
     <img alt="Qries" src="https://i.ibb.co/phF6pjC/bf4-Bordered.jpg" width="49%">
