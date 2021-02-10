@@ -8,7 +8,7 @@
   
   <h2>Recent Apps and Websites</h2>
     <a  href="http://www.star-ships.info" target="_blank">
-      <img alt="Qries" src="/starships.gif" width="49%" >
+      <img alt="Qries" src="/starsships.gif" width="49%" >
     </a>
     
   <a href="http://www.pycore.net" target="_blank">
