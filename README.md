@@ -6,13 +6,13 @@
     <img alt="Qries" src="https://i.ibb.co/4FRbkQg/F0-BF74-AB-325-F-476-A-8-A0-E-60-E1523-A1-E17.jpg" width="98%" >
   </a>
   
-  <h2>Recent Apps and Websites</h2>
+  <h2>Links to Recent Apps and Websites</h2>
     <a  href="http://www.star-ships.info" target="_blank">
       <img alt="Qries" src="/starsships.gif" width="49%" >
     </a>
     
   <a href="http://www.pycore.net" target="_blank">
-    <img alt="Qries" src="/PyCore.gif" width="48%">
+    <img alt="Qries" src="/PyCore.gif" width="49%">
   </a>
 
  
