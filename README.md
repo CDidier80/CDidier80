@@ -17,7 +17,7 @@
 
  
    <a href="https://www.youtube.com/watch?v=7Kl-IWerKIw&t=0s" target="_blank">
-    <img alt="Qries" src="/bf4timer.gif" width="49%">
+    <img alt="Qries" src="/bf4timer.gif" width="99%">
   </a>
   
   
