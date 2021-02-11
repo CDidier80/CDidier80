@@ -45,8 +45,8 @@
     <img width="12%" height=30px" src="https://img.shields.io/badge/-PyQt5-lightgreen?style=flat-square&logo=pyqt" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-    <img width="12%" height=30px" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />
-    <img width="12%" height=30px" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
+    <img width="12%" height=30px" src="https://img.shields.io/badge/Mongoose-232F3E?style=flat-square&logo=mongoose" />
+    <img width="12%" height=30px" src="https://img.shields.io/badge/-Sequelize-563D7C?style=flat-square&logo=sequelize" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-MaterialUI-blue?style=flat-square&logo=materialui" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-Insomnia-purple?style=flat-square&logo=insomnia" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
