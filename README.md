@@ -1,12 +1,12 @@
 
 <div height="320px" style="height:320px">
   
-  <h2>Current Project</h2>
+  <h2>Current Personal Project</h2>
   <a  href="http://www.money-buddy.net" target="_blank">
     <img alt="Qries" src="/moneybuddy.gif" width="99%" >
   </a>
   
-  <h2>Links to Recent Apps and Websites</h2>
+  <h2>Links to Fun Apps and Websites</h2>
     <a  href="http://www.star-ships.info" target="_blank">
       <img alt="Qries" src="/starsships.gif" width="99%" >
     </a>
