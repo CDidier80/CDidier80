@@ -1,27 +1,27 @@
 
-<div height="320px" style="height:320px">
+<!-- <div height="320px" style="height:320px"> -->
   
-  <h2>Current Personal Project</h2>
+<!--   <h2>Current Personal Project</h2>
   <a  href="http://www.money-buddy.net" target="_blank">
     <img alt="Qries" src="/moneybuddy.gif" width="99%" >
-  </a>
+  </a> -->
   
-  <h2>Links to Fun Apps and Websites</h2>
+<!--   <h2>Links to Fun Apps and Websites</h2>
     <a  href="http://www.star-ships.info" target="_blank">
       <img alt="Qries" src="/starsships.gif" width="99%" >
-    </a>
+    </a> -->
     
-  <a href="http://www.pycore.net" target="_blank">
+<!--   <a href="http://www.pycore.net" target="_blank">
     <img alt="Qries" src="/PyCore.gif" width="99%">
-  </a>
+  </a> -->
 
  
-   <a href="https://www.youtube.com/watch?v=7Kl-IWerKIw&t=0s" target="_blank">
+<!--    <a href="https://www.youtube.com/watch?v=7Kl-IWerKIw&t=0s" target="_blank">
     <img alt="Qries" src="/bf4timer.gif" width="99%">
-  </a>
+  </a> -->
   
   
-</div>
+<!-- </div> -->
 
 <div class="stats">
  <h2>Github Stats</h2>
