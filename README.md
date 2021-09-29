@@ -37,7 +37,9 @@
     <img width="12%" height=30px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript" />
+    <img width="12%" height=30px" src="https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react" />
+    <img width="12%" height=30px" src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-ExpressJS-yellow?style=flat-square&logo=express" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python" />
