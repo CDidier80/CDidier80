@@ -22,11 +22,6 @@
   
   
 <!-- </div> -->
-
-<div class="stats">
- <h2>Github Stats</h2>
- <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=CDidier80&show_icons=true&theme=react" />
-</div>
 <div>
   <h2>Technologies</h2>
     <div align="left">
