@@ -22,7 +22,7 @@
   
   
 <!-- </div> -->
-<div>
+<!-- <div>
   <h2>Technologies</h2>
    <div width="39%" align="right">
     <img width="12%" height=30px" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white" />
@@ -50,7 +50,7 @@
     <img width="12%" height=30px" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />
     <img width="12%" height=30px" src="https://img.shields.io/badge/-Zoom-black?style=flat-square&logo=zoom" />
   </div>
-</div>
+</div> -->
 
 
 
